@@ -1,8 +1,8 @@
 <h1 align="center">
-Marvelous MLOps Free End-to-end MLOps with Databricks Course
+MLOps  End-to-end MLOps with Databricks 
 
 ## Set up your environment
-In this course, we use Databricks serverless [version 3](https://docs.databricks.com/aws/en/release-notes/serverless/environment-version/three)
+we use Databricks serverless [version 3](https://docs.databricks.com/aws/en/release-notes/serverless/environment-version/three)
 
 In our examples, we use UV. Check out the documentation on how to install it: https://docs.astral.sh/uv/getting-started/installation/
 
@@ -27,3 +27,4 @@ It is used to build classification and feature engineering models for various ML
 - `03.deploy_model.py`: Deploys the trained Marvel model to a Databricks model serving endpoint.
 - `04.post_commit_status.py`: Posts status updates for Marvel integration tests to GitHub.
 - `05.refresh_monitor.py`: Refreshes monitoring tables and dashboards for Marvel model serving.
+
